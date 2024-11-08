@@ -1,0 +1,4 @@
+  PID TTY           TIME CMD
+34440 ttys001    0:00.13 /bin/zsh -il
+41899 ttys001    0:00.00 ./assignment5
+42159 ttys001    0:00.01 ps -a
